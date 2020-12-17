@@ -12,3 +12,4 @@
 1. Logbook Report
 2. SIP Report (with Turnitin summary)
 3. SIP Presentation Slides
+4. Evaluation Booklet (HCSV Copy)
